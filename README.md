@@ -57,7 +57,7 @@ La fiabilidad del sistema se verifica mediante una suite de pruebas rigurosas.
 
 1.  **Obtención del Código Fuente:** Clone el repositorio:
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone (https://github.com/j40983628-hub/POOUNIDAD4.git)
     ```
 
 2.  **Preparación del IDE:**
